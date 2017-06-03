@@ -20,7 +20,7 @@ For students, follow these steps:
 - Name:  Idan Levy
 - ID#: 305479644
 - github username: LevyIdan 
-- Estimation of hours I worked on it: 2.5
+- Estimation of hours I worked on it: 2.5 
 
 If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [here](https://github.com/jce-il/learn-mocha/issues) or send a PR with a fix.
 
